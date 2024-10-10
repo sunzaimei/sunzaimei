@@ -1,4 +1,4 @@
-Data Science Team at Carousell
+Data Scientist at Carousell
 
 - ⚡ Experience: Python, Tensorflow, Pytorch, Spark, Kafka, GCP, vertex ai.
 - 🔭 I’m currently working on bringing LLM to production. 
